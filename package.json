@@ -1,0 +1,27 @@
+{
+  "name": "@zisaid/mongo",
+  "version": "1.0.0",
+  "description": "start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zisaid/mongo.git"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "zisaid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zisaid/mongo/issues"
+  },
+  "homepage": "https://github.com/zisaid/mongo#readme",
+  "dependencies": {
+    "mongodb": "^3.2.2",
+    "mongoose": "^5.4.20"
+  },
+  "devDependencies": {}
+}
